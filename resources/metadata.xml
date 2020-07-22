@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addOn>
+  <identifier>0943259e-3adb-4d4d-9b27-9e74e6d8e5c5</identifier>
+  <displayType>Collection</displayType>
+  <translatedDisplayType>
+    <en_US>Collection</en_US>
+    <ja_JP>コレクション</ja_JP>
+    <ko_KR>컬렉션</ko_KR>
+    <zh_CN>集合</zh_CN>
+  </translatedDisplayType>
+  <name>Simulation Environment for Multirotor UAVs</name>
+  <author>Jan Vervoorst</author>
+  <version>1.2.0.0</version>
+  <downloadUrl>https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/59705/versions/4/download/zip?src=addons_ml_desktop_install&amp;profile_id=11950201&amp;license=875352&amp;release_family=R2019b</downloadUrl>
+  <licenseUrl>https://addons.mathworks.com/registry/v1/0943259e-3adb-4d4d-9b27-9e74e6d8e5c5/1.2.0.0/-/license</licenseUrl>
+  <previewImageUrl>https://www.mathworks.com/responsive_image/160/120/0/0/0/cache/matlabcentral/images/default_screenshot.jpg</previewImageUrl>
+  <releaseNotesUrl>https://www.mathworks.com/add-ons/0943259e-3adb-4d4d-9b27-9e74e6d8e5c5/bc85d71e-f1e1-49b6-ec18-60da7c1190c4/releaseNotes</releaseNotesUrl>
+  <installationFolder>Collections</installationFolder>
+</addOn>

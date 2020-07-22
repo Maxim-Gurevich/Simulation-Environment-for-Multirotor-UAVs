@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addonCore>
+  <label>Simulation Environment for Multirotor UAVs</label>
+  <version>1.2.0.0</version>
+  <type>zip</type>
+  <identifier>0943259e-3adb-4d4d-9b27-9e74e6d8e5c5</identifier>
+  <createdBy name="Jan Vervoorst"/>
+  <image>resources/screenshot.png</image>
+</addonCore>
